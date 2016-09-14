@@ -1,0 +1,88 @@
+
+header li {
+	list-style: none;
+	display: inline-block;
+	padding:20px;
+	font-size: 15px;
+	color: white;
+	margin-left: 40px;
+}
+header ul {
+	padding: 0px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+header h1 {
+	text-align: center;
+}
+header{
+	background-color: #0FD2E9;
+}
+.bunny{
+	color: white;
+	margin-left:20px;
+	font-family: 'Baloo', cursive;
+}
+.love{
+	color: #F44EC7;
+	font-family: 'Baloo', cursive;
+}
+.banner{
+	background-image: url(../img/img-1.jpg);
+	padding: 200px;
+	background-repeat: no-repeat;
+	max-width: 100%;
+	background-size: cover;
+	margin-bottom: 30px;
+}
+.container2 {
+	background-color: #0FD2E9;
+	opacity: 0.5; 
+	height: 150px;
+	width: 650px;
+	margin-top: 10px;
+	text-align: center;
+    padding: 40px;
+    font-family: 'Baloo', cursive;
+}
+.container2 h1 {
+	font-size: 60px;
+	color: #F44EC7;
+	margin-top:10px;
+
+}
+.container2 p {
+	font-size: 20px;
+	padding-bottom: 30px;
+	color: white;
+	margin-top:-30px;
+}
+
+img{
+	width: 250px;
+	height: 150px;
+}
+section{
+	margin-left:80px;
+	margin-right: 80px;
+}
+.caja{
+	background-color: #0FD2E9;
+	width: 250px;
+	height: 350px;
+}
+.container3 h3{
+	color: #F44EC7;
+	font-family: 'Baloo', cursive;
+	margin-bottom: 20px;
+}
+.container3 p{
+	color: white;
+	padding: 20px;
+
+}
+.container3{
+	margin-left:35px;
+	text-align: center;
+
+}
